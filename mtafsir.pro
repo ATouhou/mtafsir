@@ -35,9 +35,10 @@ MKDIR = mkdir -p /usr/share/mtafsir
 
  data.files =usr/share/mtafsir*
  data.path=/usr/share/
-
- desktopfile.files = mtafsir.desktop
+ 
  desktopfile.path = /usr/share/applications
+ desktopfile.files =usr/share/applications/mtafsir.desktop
+ 
 
  icon.files = usr/share/icons/hicolor/22x22/apps/mtafsir.png
  icon.path = /usr/share/icons/hicolor/22x22/apps
